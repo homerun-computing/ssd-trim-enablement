@@ -7,7 +7,7 @@ It would be nice to make this more generic to work on a variety of devices. Woul
 
 ## Instructions
 
-1. Download this file as `trim.sh`
+1. Download `trim.sh`
 2. Plug everything in (ssd, adapter, pi)
 3. Boot Raspberry Pi OS
 4. Open terminal and execute `chmod +x trim.sh`
