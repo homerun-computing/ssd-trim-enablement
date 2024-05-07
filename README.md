@@ -14,6 +14,6 @@ It would be nice to make this more generic to work on a variety of devices. Woul
 5. Now run `sudo trim.sh`
 
 ## Troubleshooting tips
-This isn't super well tested, so if it doesn't work for you, I recommend you just follow [these steps](https://www.jeffgeerling.com/blog/2020/enabling-trim-on-external-ssd-on-raspberry-pi) yourself. This script is based on those instructions but could have some mistakes.
+This isn't super well tested, so if it doesn't work for you, I recommend you just follow [these steps](https://www.jeffgeerling.com/blog/2020/enabling-trim-on-external-ssd-on-raspberry-pi) yourself. This script is based on those instructions but could have some mistakes. If you're super helpful, you could contribute some fixes to the script in this repository. I'm particularly interested in getting it to work on other operating systems. Maybe it already does?
 
 
